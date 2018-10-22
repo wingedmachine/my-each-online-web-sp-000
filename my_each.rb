@@ -5,5 +5,3 @@ def my_each(words)
     i += 1
   end
 end
-
-my_each(words) { |word| puts word }
